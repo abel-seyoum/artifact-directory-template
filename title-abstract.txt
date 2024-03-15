@@ -1,5 +1,5 @@
 Title:
-<MY SUPER AWESOME PROJECT TITLE>
+Feature Learning in Soft Decision Trees
 
 Abstract:
-<MY SUPER AWESOME PROJECT ABSTRACT>
+In modern machine learning, deep neural networks (DNNs) have been very popular in recent study, especially with the recent emergence of large language models (LLMs). Common methods to train said models include gradient based methods including (Stochastic) Gradient Descent for example. However, not much is known about the layers of said models, especially in the context of what occurs to these features during training. However, what is known is that DNNs are very capable in learning the true underlying nature of these features. However, recent progress in the field as a result of work produced by Prof. Belkin and members of his lab at UC San Diego, has shed light into this feature learning problem, and they have produced what they call the Deep Neural Feature Ansatz (DNFA). As such, we have previously validated the DNFA both through replication study and other empirical experiments in our quarter 1 project. Now however in this work, we continue to in similar line to showcase that soft decision trees learn relevant featuers in a very similar fashion.
